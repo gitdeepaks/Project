@@ -1,6 +1,5 @@
-import React from 'react';
-import WorkloadCalculator from './components/WorkloadCalculator';
-import { WorkloadProvider } from './context/WorkloadContext';
+import WorkloadCalculator from "./components/WorkloadCalculator";
+import { WorkloadProvider } from "./context/WorkloadContext";
 
 function App() {
   return (
